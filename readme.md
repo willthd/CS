@@ -3,10 +3,10 @@
 
 > Computer Science
 
-* [Operating System](./os)
+* [Operating System](../os)
 
-* [Data Structures](./dataStructures)
+* [Data Structures](../dataStructures)
 
-* [Design Patter](./designPattern)
+* [Design Patter](../designPattern)
 
-* [Algorithm](./algorithm)
+* [Algorithm](../algorithm)
