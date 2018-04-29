@@ -3,10 +3,10 @@
 
 > Computer Science
 
-* [Operating System](../os)
+* [Operating System](https://github.com/JongsooPark1/OS)
 
-* [Data Structures](../dataStructures)
+* [Data Structures](https://github.com/JongsooPark1/Data-Structures)
 
-* [Design Pattern](../designPattern)
+* [Design Pattern](https://github.com/JongsooPark1/Design-Pattern)
 
-* [Algorithm](../algorithm)
+* [Algorithm](https://github.com/JongsooPark1/Algorithm)
