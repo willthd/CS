@@ -7,5 +7,5 @@
 
 * [Data Structures](https://github.com/JongsooPark1/Data-Structures)
 
-* [Design Pattern](https://github.com/JongsooPark1/Design-Pattern) 
+* [Design Pattern](https://github.com/JongsooPark1/Design-Pattern)
 
