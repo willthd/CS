@@ -5,7 +5,7 @@
 
 
 
-* [Algorithm](./algorithm)
+* [Algorithm](https://github.com/willthd/Algorithm)
 
 
 
